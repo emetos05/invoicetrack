@@ -37,7 +37,3 @@ yarn dev
 ```bash
 npm run lint
 ```
-
-## License
-
-MIT
